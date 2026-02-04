@@ -1,0 +1,4 @@
+1D array: [1 2 3 4] shape: (4,)
+2D array: [[1 2] [3 4]] shape: (2, 2)
+Linear system solution: [-4.  3.]
+Eigenvalues: [ 5.43847679 -0.43847679]
